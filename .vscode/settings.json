@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/ad3be88e-51ba-4503-a044-1add82d9098a/microsoft.web/sites/subscriptions/ad3be88e-51ba-4503-a044-1add82d9098a/resourceGroups/PaymentAPI20220823122019ResourceGroup/providers/Microsoft.Web/sites/PaymentWebApp2022",
+    "appService.deploySubpath": "."
+}

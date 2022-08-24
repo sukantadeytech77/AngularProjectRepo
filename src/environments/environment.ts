@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  baseApiUrl: "https://azurepaymentapi.azure-api.net/v1/api/PaymentDetail",
+  localbaseApiUrl: "http://localhost:5224/api/PaymentDetail"
 };
 
 /*
